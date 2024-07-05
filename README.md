@@ -1,2 +1,2 @@
 # coursera
-coursera course repo
+coursera course repository
